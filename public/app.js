@@ -2,7 +2,7 @@ var app = function(){
 	console.log('working');
 	var view = document.querySelector('#view');
 	console.log(view.scrollLeft, view.scrollTop);
-	view.scrollLeft = 500;
+	view.scrollLeft = 1;
 	var content = document.querySelector("#content");
 	console.log(content.scrollWidth);
 	
