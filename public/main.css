@@ -1,0 +1,13 @@
+#view {
+	background-color: red;
+	width: 400px;
+	height: 100px;
+	overflow: scroll;
+}
+
+#container {
+	background-color: red;
+	width: 390px;
+	height: 80px;
+	overflow: hidden;
+}
